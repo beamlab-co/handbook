@@ -11,9 +11,9 @@ At Beamlab, we are driven by a shared vision to lead groundbreaking advancements
 ## Values
 
 - **Innovation**: We embrace curiosity, exploration and the relentless pursuit of new ideas, driving us to continuously push the boundaries of AI technology.
-- **Collaboration**: We belive in the power of collective intelligence, uniting diverse perspectives and fostering synergies to create AI solutions that make a lasting difference.
+- **Collaboration**: We believe in the power of collective intelligence, uniting diverse perspectives and fostering synergies to create AI solutions that make a lasting difference.
 - **Excellence**: We hold ourselves to the highest standards, diligently crafting AI systems that exemplify precision, reliability & outstanding performace.
-- **Empowerment**: We empower individuals to flourish within our vibrant AI community, nurturing their growh, skills & aspirations.
+- **Empowerment**: We empower individuals to flourish within our vibrant AI community, nurturing their growth, skills & aspirations.
 - **Ethics**: We uphold unwavering ethical standards, ensuring that our AI technologies are developed and deployed responsibly for the betterment of society.
 - **Adaptability**: We thrive in an ever-evolving AI landscape, embracing change and cultivating agility to remain at the forefront of innovation.
 - **Impact**: We measure out success by the positive impact we create, leveraging AI to address real-world challenges and drive meaningful transformations.
