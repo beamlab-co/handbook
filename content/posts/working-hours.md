@@ -11,7 +11,7 @@ At Beamlab, we value your dedication to your role and the contributions you make
 
 As a company policy, we do not work on weekends (Saturdays and Sundays).
 
-Full-time Working Hours: 9.30 AM - 6.00 PM
+Full-time Working Hours: 9.00 AM - 6.00 PM
 
 Part-time employees' work hours will be communicated upon hiring.
 If you need to adjust your work hours for any reason, please communicate with your supervisor and the HR department in advance.
